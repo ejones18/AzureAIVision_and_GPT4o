@@ -1,0 +1,10 @@
+python-dotenv  
+Pillow
+pprintjson
+cleanvision
+seaborn
+opencv-python-headless  
+numpy 
+requests  
+matplotlib  
+ipython
